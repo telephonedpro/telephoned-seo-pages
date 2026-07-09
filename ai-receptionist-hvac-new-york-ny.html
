@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="AI Receptionist for HVAC Companies in New York, NY">
+    <meta name="description" content="Enhance your HVAC company in New York, NY with our AI receptionist that captures leads and ensures 24/7 availability to increase your revenue.">
+    <title>AI Receptionist for HVAC Companies in New York, NY</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #FFFFFF;
+            color: #0F0F0F;
+        }
+        .hero {
+            background-color: #FF4D00;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .hero h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #FFFFFF;
+        }
+        .section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .cta-button {
+            background-color: #FF4D00;
+            color: #FFFFFF;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #0F0F0F;
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="hero">
+        <h1>AI Receptionist for HVAC Companies in New York, NY</h1>
+    </div>
+
+    <div class="section">
+        <h2>Don't Let Missed Calls Cost You Revenue</h2>
+        <p>Every missed call represents a lost opportunity and potential revenue for your HVAC business. Ensure you're always available to connect with your customers and keep your business thriving.</p>
+    </div>
+
+    <div class="section">
+        <h2>AI Receptionist</h2>
+        <p>Our advanced AI receptionist handles all calls and inquiries efficiently, allowing you to focus on providing exceptional HVAC services.</p>
+    </div>
+
+    <div class="section">
+        <h2>Lead Capture</h2>
+        <p>Easily capture and manage leads, ensuring no potential customer falls through the cracks while you’re busy or unavailable.</p>
+    </div>
+
+    <div class="section">
+        <h2>24/7 Availability</h2>
+        <p>With our AI receptionist, your HVAC company can be available around-the-clock, ensuring customer satisfaction and steady business growth.</p>
+    </div>
+
+    <div class="section">
+        <a href="https://telephoned.pro/book-demo" class="cta-button">Book a Demo Now</a>
+    </div>
+
+    <footer>
+        <p>© Telephoned.pro</p>
+    </footer>
+
+</body>
+</html>
