@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="AI Receptionist for Plumbers in New York, NY">
+    <meta name="description" content="Streamline your plumbing business with our AI receptionist, designed to capture leads and ensure 24/7 availability in New York, NY.">
+    <title>AI Receptionist for Plumbers in New York, NY</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #FFFFFF;
+        }
+        .hero {
+            background-color: #FF4D00;
+            color: #FFFFFF;
+            text-align: center;
+            padding: 50px 20px;
+        }
+        .pain-point, .benefit {
+            padding: 30px 20px;
+            text-align: center;
+        }
+        .pain-point {
+            background-color: #F9F9F9;
+        }
+        .benefit {
+            background-color: #FFFFFF;
+            border-bottom: 2px solid #FF4D00;
+        }
+        .cta-button {
+            background-color: #FF4D00;
+            color: #FFFFFF;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #0F0F0F;
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="hero">
+        <h1>AI Receptionist for Plumbers in New York, NY</h1>
+    </div>
+
+    <div class="pain-point">
+        <h2>Don’t Let Missed Calls Mean Lost Revenue</h2>
+        <p>If you're missing calls, you're missing out on valuable leads and potential revenue. Our AI receptionist ensures you never miss an opportunity.</p>
+    </div>
+
+    <div class="benefit">
+        <h2>AI Receptionist</h2>
+        <p>Automate your customer interactions with our intelligent AI receptionist that can handle calls, answer queries, and schedule appointments effortlessly.</p>
+    </div>
+
+    <div class="benefit">
+        <h2>Lead Capture</h2>
+        <p>Capture leads efficiently even when you’re busy. Our system logs potential client information and inquiries, so you can follow up easily.</p>
+    </div>
+
+    <div class="benefit">
+        <h2>24/7 Availability</h2>
+        <p>Never miss a call again! Our AI receptionist is available around the clock, ensuring your plumbing business is always reachable.</p>
+    </div>
+
+    <div style="text-align: center; padding: 20px;">
+        <a href="https://telephoned.pro/book-demo" class="cta-button">Book a Demo</a>
+    </div>
+
+    <footer>
+        <p>© Telephoned.pro</p>
+    </footer>
+
+</body>
+</html>
